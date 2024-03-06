@@ -1,0 +1,18 @@
+{
+  "name": "badplus",
+  "version": "1.0.1",
+  "description": "private use",
+  "main": "bad.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "bad"
+  ],
+  "author": "wenjoy",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
