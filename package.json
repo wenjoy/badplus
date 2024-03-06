@@ -9,6 +9,10 @@
   "keywords": [
     "bad"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenjoy/badplus.git"
+  },
   "author": "wenjoy",
   "license": "ISC",
   "devDependencies": {
